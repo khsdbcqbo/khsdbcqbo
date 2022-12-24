@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khsdbcqbo
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 👋 Hi, I’m Patrick Bateman
+- 👀 I’m interested in Photography and Stock Trading 
+- 🌱 I’m currently learning Finance
 - 💞️ I’m looking to collaborate on anything
 
 <!---
